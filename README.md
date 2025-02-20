@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Malindi Nanayakkara!  
   
 
-I'm a data science and analytics enthusiast, currently an undergraduate exploring the power of data to drive insights and innovation. I’m passionate about building data-driven solutions that are efficient, scalable, and insightful.  
+I'm a data analytics and data science  enthusiast, an undergraduate exploring the power of data to drive insights and innovation. I’m passionate about building data-driven solutions that are efficient, scalable, and insightful.  
 
 My interests include machine learning, deep learning, statistical modeling, and data analytics. Through my studies and projects, I’m continuously developing my skills and sharing my journey about the world behind data.  
   
